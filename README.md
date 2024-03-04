@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Mariana Caldas.
 
-- 🔭 Estudante de desenvolvimento Web.
+- 🔭 Estudante de desenvolvimento.
 - 🌱 Tenho como objetivo ser desenvolvedora fullstack.
 
  <div> 
