@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Mariana Caldas.
 
-- 🔭 Estudante de desenvolvimento.
-- 🌱 Tenho como objetivo ser desenvolvedora fullstack.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Tenho como objetivo ser Cientista de Dados.
 
  <div> 
   <a href="https://www.linkedin.com/in/mariana-caldas-26035425" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
