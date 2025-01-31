@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Mariana Caldas.
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Tenho como objetivo ser Cientista de Dados.
-
   ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacaldas&layout=compact&theme=dracula)
 
  <div> 
